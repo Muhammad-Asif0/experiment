@@ -1,0 +1,80 @@
+  "toolforge-paws-beta": [
+  "toolforge-paws-public": [
+  "toolforge-admin": [
+  "toolforge-cloudvps": [
+  "toolforge-w2c-beta": [
+  "enwiki-diegodlh-web2cit": [
+  "toolforge-w2cmon": [
+  "toolforge-web2cit-editor": [
+  "toolforge-web2cit": [
+  "toolforge-web2cit-json-editor": [
+  "toolforge-openstack-browser": [
+  "toolforge-toolschecker-ge-ws": [
+  "toolforge-toolschecker-k8s-ws": [
+  "toolforge-toolschecker": [
+  "toolforge-grid-webservices": [
+  "toolforge-grid-jobs": [
+  "toolforge-sge-jobs": [
+  "toolforge-toolviews": [
+  "toolforge-os-deprecation": [
+  "toolforge-vpsalertmanager": [
+  "toolforge-cloud-ceph-performance-tests": [
+  "toolforge-cloud-status": [
+  "toolforge-automated-toolforge-tests": [
+  "toolforge-csp-report": [
+  "toolforge-docker-registry": [
+  "toolforge-fourohfour": [
+  "toolforge-grid-deprecation": [
+  "toolforge-gridengine-status": [
+  "toolforge-help": [
+  "toolforge-iw": [
+  "toolforge-precise-tools": [
+    2,
+    19
+  ],
+  "toolforge-replag": [
+    1,
+    19
+  ],
+  "toolforge-sal": [
+    2,
+    19
+  ],
+  "toolforge-sge-status": [
+    2,
+    19
+  ],
+  "toolforge-tool-db-usage": [
+    2,
+    19
+  ],
+  "toolforge-trusty-tools": [
+    1,
+    19
+  ],
+  "toolforge-trusty-deprecation": [
+    2,
+    19
+  ],
+  "toolforge-www": [
+    2,
+    19
+  ],
+  "toolforge-xn-dk8hv9g": [
+    2,
+    19
+  ],
+  "toolforge-wm-lol": [
+    1,
+    41
+  ],
+  "toolforge-wm-what": [
+    1,
+    41
+  ],
+  "wm-ssh": [
+  "toolforge-sqlchecker": [
+  "mm_listeria": [
+  "metawiki-jon-harald-s\u00f8by-diffedit": [
+  "toolforge-lexeme-forms":
+  "toolforge-croptool"
