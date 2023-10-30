@@ -1,10 +1,4 @@
-# sapper-template
-
-The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
-
-## Please note
-
-Sapper is no longer being actively developed. You may be interested in using Sapper's succesor, [SvelteKit](https://kit.svelte.dev/) for new projects.
+# Toolhub Record Management
 
 ## Getting started
 
